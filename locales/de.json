@@ -616,11 +616,11 @@
         "message": "Anzahl der zu mintenden NFTs"
   },
       "creative": {
-        "heading": "Creative Minting"
+        "heading": "Kreatives Minting"
       },
-      "drop": "Lege dein NFT hier ab, klicke auf Upload oder füge es aus der Zwischenablage ein. AI Modelle schränken die Unterstützung für Creative Minting auf JPEG, PNG, GIF oder BMP Bilddateien ein. Die Datei muss kleiner als 4 MB sein, und größer als 50x50 Pixel sein. Realistische Fotografien erzielen die besten Ergebnisse.",
+      "drop": "Lege dein NFT hier ab, klicke auf Upload oder füge es aus der Zwischenablage ein. AI Modelle schränken die Unterstützung für Kreatives Minting auf JPEG, PNG, GIF oder BMP Bilddateien ein. Die Datei muss kleiner als 4 MB sein, und größer als 50x50 Pixel sein. Realistische Fotografien erzielen die besten Ergebnisse.",
       "cover": "Dein NFT benötigt ein Coverum in der Gallerie gesehen zu werden. Bitte lade ein Bild hoch (jpg/ png/ gif)",
-      "rmrkDescription": "Erstellung von Titel und Beschreibung ist fehlgeschlagen. Kontrolliere ob die hochgeladene Datei den Anforderungen des Creative Minting genügt: JPEG, PNG, GIF oder BMP mit weniger als 4MB und Maßen von mehr als 50x50 Pixeln.",
+      "rmrkDescription": "Erstellung von Titel und Beschreibung ist fehlgeschlagen. Kontrolliere ob die hochgeladene Datei den Anforderungen des Kreatives Minting genügt: JPEG, PNG, GIF oder BMP mit weniger als 4MB und Maßen von mehr als 50x50 Pixeln.",
       "simpleDrop": "Lege dein NFT hier ab, klicke auf Upload oder füge es aus der Zwischenablage ein. Wir unterstützen die verschiedensten Dateiformate (BMP, GIF, JPEG, PNG, SVG, TIFF, WEBP, MP4, OGV, QUICKTIME, WEBM, GLB, FLAC, MP3, JSON)"
     }
   },
